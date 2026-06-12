@@ -2,16 +2,15 @@
 
 Implementation accompanying the paper *"Threshold-Based Private Set 
 Intersection Protocol for Secure Deconfliction in Multi-Jurisdictional 
-Blockchain Investigations"* 
+Blockchain Investigations"*.
 
 ## Repository contents
 
-- `aml_psi_tool_v2.py` — interactive Jupyter dashboard implementing the 
+- `aml_psi_tool.py` — interactive Jupyter dashboard implementing the 
   threshold PSI protocol (Phases 1–4)
 - `prepare_dataset.py` — partitions the Elliptic++ dataset into n 
   jurisdictional datasets with controlled overlap structure
-- `benchmark_psi_v3.py` — scalability benchmark suite generating 
-  Figures 
+- `benchmark_psi.py` — scalability benchmark suite generating Figures 3–6
 
 ## Requirements
 
@@ -19,20 +18,21 @@ Blockchain Investigations"*
 pip install -r requirements.txt
 ```
 
-## Reproducing the primary case study 
+## Reproducing the primary case study
 
 1. Download the [Elliptic++ Dataset](https://github.com/git-disl/EllipticPlusPlus)
 2. Run `prepare_dataset.py` to generate `addr_labels_J0.csv` ... `addr_labels_J4.csv`
-3. Open `aml_psi_tool_v2.py` in Jupyter Notebook
+3. Open `aml_psi_tool.py` in Jupyter Notebook
 4. Set `n=5`, `t=2`
 5. Click "Start Investigation"
 
-## Reproducing scalability benchmarks 
+## Reproducing scalability benchmarks
 
 ```bash
-python benchmark_psi_v3.py
+python benchmark_psi.py
 ```
-Outputs Figures  to `figures/`.
+
+Outputs Figures 3–6 to `figures/`.
 
 ## License
 
