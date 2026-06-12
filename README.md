@@ -10,7 +10,7 @@ Blockchain Investigations"*.
   threshold PSI protocol (Phases 1–4)
 - `prepare_dataset.py` — partitions the Elliptic++ dataset into n 
   jurisdictional datasets with controlled overlap structure
-- `benchmark_psi.py` — scalability benchmark suite generating Figures 3–6
+- `benchmark_psi.py` — scalability benchmark suite generating Figures 
 
 ## Requirements
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python benchmark_psi.py
 ```
 
-Outputs Figures 3–6 to `figures/`.
+Outputs Figures.
 
 ## License
 
