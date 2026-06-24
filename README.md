@@ -34,7 +34,7 @@ Outputs Figures.
 
 ## License
 
-MIT
+This project is licensed under the MIT License.
 
 ## Citation
 Shevchuk R, Adamyk B, Benson V. Threshold-Based Private Set Intersection Protocol for Secure Deconfliction in Multi-Jurisdictional Blockchain Investigations. Electronics. 2026; 15(12):2709. https://doi.org/10.3390/electronics15122709
