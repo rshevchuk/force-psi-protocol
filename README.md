@@ -1,4 +1,4 @@
-# FORCE — PSI Protocol for Multi-Jurisdictional AML Deconfliction
+# PSI Protocol for Multi-Jurisdictional AML Deconfliction
 
 Сryptographic t-out-of-n private set intersection protocol for secure collaboration between different jurisdictions in cross-border investigations. The protocol enables detection of overlapping watchlist entries without revealing full datasets or sensitive investigative information. The solution is based on Shamir Secret Sharing and deterministic hash-based mapping, ensuring information-theoretic privacy of shared values and secure computation of intersections under a semi-honest adversarial model. 
 
@@ -39,5 +39,12 @@ MIT
 ## Citation
 Shevchuk R, Adamyk B, Benson V. Threshold-Based Private Set Intersection Protocol for Secure Deconfliction in Multi-Jurisdictional Blockchain Investigations. Electronics. 2026; 15(12):2709. https://doi.org/10.3390/electronics15122709
 
+## Datasets & Acknowledgements
+
+- Elliptic++ Dataset (https://github.com/git-disl/EllipticPlusPlus)
+- European Union’s Horizon 2024 research and innovation program under the Marie Skłodowska-Curie grant agreement No. 101235440—FORCE. (https://force-msca.eu/) 
+
 ## Contact
 Ruslan Shevchuk - rshevchuk@ubb.edu.pl
+
+
