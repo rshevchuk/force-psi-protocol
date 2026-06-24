@@ -43,4 +43,3 @@ Shevchuk R, Adamyk B, Benson V. Threshold-Based Private Set Intersection Protoco
 
 ## Contact
 Ruslan Shevchuk - rshevchuk@ubb.edu.pl
-Project Link: [https://github.com/KuznetsovKarazin/kan-dos-detection](https://github.com/rshevchuk/force-psi-protocol)
