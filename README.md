@@ -1,8 +1,6 @@
 # FORCE — PSI Protocol for Multi-Jurisdictional AML Deconfliction
 
-Implementation accompanying the paper *"Threshold-Based Private Set 
-Intersection Protocol for Secure Deconfliction in Multi-Jurisdictional 
-Blockchain Investigations"*.
+Сryptographic t-out-of-n private set intersection protocol for secure collaboration between different jurisdictions in cross-border investigations. The protocol enables detection of overlapping watchlist entries without revealing full datasets or sensitive investigative information. The solution is based on Shamir Secret Sharing and deterministic hash-based mapping, ensuring information-theoretic privacy of shared values and secure computation of intersections under a semi-honest adversarial model. 
 
 ## Repository contents
 
