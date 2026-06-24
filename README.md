@@ -37,3 +37,10 @@ Outputs Figures.
 ## License
 
 MIT
+
+## Citation
+Shevchuk R, Adamyk B, Benson V. Threshold-Based Private Set Intersection Protocol for Secure Deconfliction in Multi-Jurisdictional Blockchain Investigations. Electronics. 2026; 15(12):2709. https://doi.org/10.3390/electronics15122709
+
+## Contact
+Ruslan Shevchuk - rshevchuk@ubb.edu.pl
+Project Link: [https://github.com/KuznetsovKarazin/kan-dos-detection](https://github.com/rshevchuk/force-psi-protocol)
